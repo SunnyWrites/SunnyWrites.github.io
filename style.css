@@ -53,4 +53,7 @@ a {
 a:hover { 
     color: #003C8F; 
     text-decoration: underline; 
+    body {
+    margin: 0;
+}
 } 
