@@ -13,4 +13,3 @@ This change will add value by increasing the information available on site and c
 - **Time:** I estimate this taking me one hour to complete. 
 - **Quality:** Quality should increase due to the added value and information to the site. 
 - **Budget:** There would be no cost and no change to budget at this change includes a Google link and does not require any paid resources. # Auto detect text files and perform LF normalization
-* text=auto
